@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'brandjam-square-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6164C9D779A4D6E8B0A76EDA1D99324 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77BFC79863F6487AB5EA24967616F817 }}
